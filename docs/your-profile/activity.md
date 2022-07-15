@@ -6,7 +6,7 @@ sidebar_position: 2
 
 In the profile, you can see your activity.
 
-Here we show your weekly goal status, the article you read in the past (with a GitHub style!)
+Here we show your weekly goal status, the articles you read in the past (with a GitHub style!)
 
 You can also see your current stats for articles and upvotes you got
 
